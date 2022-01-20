@@ -5,10 +5,12 @@ In this app we want you to build an audio player by the help of the firebase sto
 - Create an audio.
 - Delete audio
 - list audios and play them.
+
+
 The created audio object should be something like this:
 ```
 {
-id:...,
+id: ...,
 name: ...,
 description: ...,
 thumbnail: ...,
